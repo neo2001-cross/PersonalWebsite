@@ -1,0 +1,13 @@
+.workContainer{
+    height: auto;
+    /* width: 100%; */
+    padding: 0px 500px;
+    color: white;
+}
+
+.workContent{
+    padding: 0px 20px;
+    border-left: 1px solid white;
+    font-size: 20px;
+    line-height: 30px;
+}

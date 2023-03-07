@@ -1,0 +1,10 @@
+.wallpaper{
+    padding-top: 30%;
+    background: url(../assests/img/wallpaper.png) top center / cover no-repeat;
+}
+
+.wallpaper .mainName{
+    color: white;
+    transform: translateY(-500%);
+    margin: 0px 20px;
+}
