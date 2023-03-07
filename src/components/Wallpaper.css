@@ -1,5 +1,6 @@
 .wallpaper{
     padding-top: 30%;
+    transform: translateY(50px);
     background: url(../assests/img/wallpaper.png) top center / cover no-repeat;
 }
 
@@ -7,4 +8,5 @@
     color: white;
     transform: translateY(-500%);
     margin: 0px 20px;
+    text-shadow: 10px 10px 10px black;
 }

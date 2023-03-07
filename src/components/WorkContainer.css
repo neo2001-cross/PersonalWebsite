@@ -1,8 +1,12 @@
 .workContainer{
-    height: auto;
+    height: 500px;
     /* width: 100%; */
     padding: 0px 500px;
     color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .workContent{
